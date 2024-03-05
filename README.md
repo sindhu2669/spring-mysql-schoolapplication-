@@ -3,7 +3,13 @@
 ## Overview 
 The EazySchoolApplication is a web-based application designed to streamline various administrative tasks in a school environment. It provides functionalities for managing students, teachers, courses, and other aspects of school operations.
 
-## Technologies Used - Java - Spring Boot - MySQL - Thymeleaf (for server-side templating) - HTML/CSS/JavaScript (for front-end interface) - Maven (for dependency management) 
+## Technologies Used
+- Java
+- Spring Boot
+- MySQL
+- Thymeleaf (for server-side templating)
+- HTML/CSS/JavaScript (for front-end interface)
+- Maven (for dependency management) 
 
 ## Features 
 - Student management: Add, edit, delete student records including personal details, contact information, and academic performance.
