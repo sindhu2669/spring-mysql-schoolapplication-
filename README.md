@@ -28,3 +28,5 @@ The EazySchoolApplication is a web-based application designed to streamline vari
 1. Access the application through your web browser: `http://localhost:8080`  
 2. Log in using the provided credentials (admin/teacher/student) or create a new account if required.
 3. Explore the various features and functionalities of the EasySchool Application. 
+
+test
